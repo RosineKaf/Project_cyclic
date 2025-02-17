@@ -19,7 +19,7 @@ Ce projet fait partie du **Google Data Analytics Capstone**. L’objectif est d�
 ✔ **Stations les plus populaires** → Différence d’utilisation entre membres et occasionnels  
 
 ## 📈 Visualisations  
-🔹 [Voir les graphiques sur Tableau Public](https://public.tableau.com/) *(Ajoute ton lien ici !)*  
+🔹 [Voir les graphiques sur Tableau Public](https://public.tableau.com/) *(https://public.tableau.com/newWorkbook/99bccdec-b0bd-4d69-8b72-bcb342d33186#1)*  
 
 ## 📜 Requêtes SQL  
 📂 [Voir le fichier SQL](./Cyclistic_Analysis.sql)  
