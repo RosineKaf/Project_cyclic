@@ -33,5 +33,5 @@ Ce projet fait partie du **Google Data Analytics Capstone**. L’objectif est d�
 3️⃣ **Cibler les zones touristiques** avec des campagnes adaptées  
 
 ## 📌 Auteur  
-👤 **[Ton Nom](https://github.com/TonGitHub)**  
+👤 **Rosine Armelle Tinbo KAFANDO (https://github.com/TonGitHub)**  
 📧 Contact : *[Ton Email]*  
