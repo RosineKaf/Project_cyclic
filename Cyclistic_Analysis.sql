@@ -34,3 +34,11 @@ ST_DISTANCE(
   ST_GEOGPOINT(start_lng, start_lat), 
   ST_GEOGPOINT(end_lng, end_lat)) / 1000 AS trip_distance_km 
   FROM `cyclisticproject-451118.cyclic_data.all_trips_cleaned`;
+
+--Ajout du jour de la semaine (day_of_week)
+-- Facilite l'analyse des tendances en semaine vs week-end 
+-- 1= semaine , 7= Samedi
+CREATE OR REPLACE TABLE `cyclisticproject-451118.cyclic_data.all_trips_cleaned` AS 
+SELECT *, 
+EXTRACT(DAYOFWEEK FROM started_at) AS day_of_week
+FROM `cyclisticproject-451118.cyclic_data.all_trips_cleaned`;
