@@ -33,3 +33,11 @@ SELECT
 FROM `cyclisticproject-451118.cyclic_data.all_trips_cleaned` 
 WHERE trip_distance_km > 0 
 GROUP BY member_casual;
+
+SELECT 
+  member_casual, 
+  day_of_week, 
+  COUNT(ride_id) AS total_trips 
+FROM `cyclisticproject-451118.cyclic_data.all_trips_cleaned` 
+GROUP BY member_casual, day_of_week 
+ORDER BY member_casual, day_of_week;
