@@ -9,7 +9,7 @@ GROUP BY member_casual, start_station_name
 ORDER BY total_trips DESC 
 LIMIT 10;
 
--- Distance moyenne des trajets
+-- Durée moyenne des trajets
 SELECT 
   member_casual,  
   ROUND(AVG(ride_length_min), 2) AS avg_duration_min,  
@@ -25,3 +25,11 @@ SELECT
 FROM `cyclisticproject-451118.cyclic_data.all_trips_cleaned` 
 GROUP BY member_casual, start_hour 
 ORDER BY member_casual, start_hour;
+
+-- Distance moyenne des trajets par utilisateur
+SELECT 
+  member_casual, 
+  ROUND(AVG(trip_distance_km), 2) AS avg_distance_km, 
+FROM `cyclisticproject-451118.cyclic_data.all_trips_cleaned` 
+WHERE trip_distance_km > 0 
+GROUP BY member_casual;
