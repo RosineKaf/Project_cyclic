@@ -22,7 +22,7 @@ Ce projet fait partie du **Google Data Analytics Capstone**. L’objectif est d�
 🔹 [Voir les graphiques sur Tableau Public](https://public.tableau.com/) *(Ajoute ton lien ici !)*  
 
 ## 📜 Requêtes SQL  
-📂 [Voir le fichier SQL](./Cyclistic_Analysis.sql)  
+📂 [Voir le fichier SQL](./Cyclistic_Analysis.sql) *(https://github.com/RosineKaf/Project_cyclic/blob/03_analysis.sql/Cyclistic_Analysis.sql)* 
 
 ## 📑 Rapport Final  
 📂 [Lire le rapport complet](./Cyclistic_Report.pdf)  
