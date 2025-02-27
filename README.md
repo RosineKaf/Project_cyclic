@@ -25,7 +25,7 @@ Ce projet fait partie du **Google Data Analytics Capstone**. L’objectif est d�
 📂 [Voir le fichier SQL](./Cyclistic_Analysis.sql)  (*https://github.com/RosineKaf/Project_cyclic/blob/03_analysis.sql/Cyclistic_Analysis.sql*)
 
 ## 📑 Rapport Final  
-📂 [Lire le rapport complet](./Cyclistic_Report.pdf)  
+📂 [Lire le rapport complet](./Cyclistic_Report.pdf)  (*https://github.com/RosineKaf/Project_cyclic/blob/main/Rapport_final_Projet_Cyclistic.pdf*)
 
 ## 🚀 Recommandations Business  
 1️⃣ **Offrir des réductions aux usagers occasionnels** pour tester l’abonnement  
