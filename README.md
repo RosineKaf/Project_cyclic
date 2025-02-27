@@ -35,3 +35,4 @@ Ce projet fait partie du **Google Data Analytics Capstone**. L’objectif est d�
 ## 📌 Auteur  
 👤 **Rosine Armelle Tinbo KAFANDO (https://github.com/TonGitHub)**  
 📧 Contact : *armellekafando16@gmail.com*  
+              *rosinekafando@myyahoo.com*
